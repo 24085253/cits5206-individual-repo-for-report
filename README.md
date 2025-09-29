@@ -32,7 +32,14 @@
 
 ## Documentation
 
-This repository contains coverage reports and documentation for individual contributions to the CITS5206 SmallGoods Competition App project.
+This repository contains coverage reports, meeting notes, and documentation for individual contributions to the CITS5206 SmallGoods Competition App project.
+
+### Meeting Documentation
+- **[Team Meeting Notes](./MEETING_NOTES.md)**: Comprehensive documentation of 4 key project meetings
+  - Project kickoff meeting (August 4, 2025)
+  - Requirements clarification meetings (August 11-12, 2025)
+  - Competition DSL development meeting (September 8, 2025)
+  - Technical decisions, action items, and project direction
 
 ### Features Implemented:
 - Real-time competition timer system
